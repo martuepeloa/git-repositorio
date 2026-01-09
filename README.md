@@ -48,4 +48,4 @@ El objetivo es practicar control de versiones y buenas prácticas usando Git y G
 *Martiniano Epeloa*  
 Estudiante de sistemas | Cloud Computing Jr  
 
-🔗 GitHub: https://github.com/martuepeloa
+🔗 Este es mi link de GitHub: https://github.com/martuepeloa
